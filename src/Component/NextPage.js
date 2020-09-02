@@ -14,8 +14,8 @@ function NextPage(props) {
                       <select  className="form-control" required onChange={props.hPlayer}>
                           <option>Choose One</option>
                           <option>Sachin Tendulkar</option>
+                          <option>Sourav Ganguly</option>
                           <option>Virat Kohli</option>
-                          <option>Adam Gilchirst</option>
                           <option>Jacques Kallis</option>
                      </select>
                       </div>
